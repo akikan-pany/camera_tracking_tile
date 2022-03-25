@@ -1,4 +1,4 @@
-//g++ dip11_glcv.cpp -std=c++11 `pkg-config --cflags --libs opencv4` -framework OpenGL -framework GLUT -Wno-deprecated
+//g++ tile_glcv.cpp -std=c++11 `pkg-config --cflags --libs opencv4` -framework OpenGL -framework GLUT -Wno-deprecated
 #include <iostream>  //入出力関連ヘッダ
 #include <opencv2/opencv.hpp>  //OpenCV関連ヘッダ
 #include <GLUT/glut.h>  //OpenGL

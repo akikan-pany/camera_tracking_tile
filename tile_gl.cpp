@@ -1,4 +1,4 @@
-//g++ dip11_gl.cpp -framework OpenGL -framework GLUT -Wno-deprecated
+//g++ tile_gl.cpp -framework OpenGL -framework GLUT -Wno-deprecated
 #include <iostream>  //入出力関連ヘッダ
 #include <GLUT/glut.h>  //OpenGL
 #include <math.h>  //数学関数

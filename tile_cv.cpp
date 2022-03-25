@@ -1,5 +1,5 @@
-//g++ dip11_cv.cpp -std=c++11 `pkg-config --cflags --libs opencv4`   (OpenCV4)
-//g++ dip11_cv.cpp `pkg-config --cflags --libs opencv`   (OpenCV3)
+//g++ tile_cv.cpp -std=c++11 `pkg-config --cflags --libs opencv4`   (OpenCV4)
+//g++ tile_cv.cpp `pkg-config --cflags --libs opencv`   (OpenCV3)
 #include <iostream>  //入出力関連ヘッダ
 #include <opencv2/opencv.hpp>  //OpenCV関連ヘッダ
 
